@@ -56,13 +56,50 @@ font-
 </style>
 </head>
 <body class="body">
-
 <h2 style="color:white;">CORE SYLLABUS</h2>
 <h3 style="color:white;">Semester 1</h3>
-
-
-
+<br>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1</p>
+</div>
+<br>
 <button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button>
+<div class="content">
+  <p>2</p>
+</div>
+
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>3</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>4</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
 <div class="content">
   <p>1212</p>
 </div>
@@ -70,6 +107,53 @@ font-
 
 
 <h3 style="color:white;">Semester 2</h3>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button>
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button>
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>1212</p>
+</div>
+<BR>
+
+
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
