@@ -68,7 +68,7 @@ font-
 <div class="content">
   <p>2</p>
 </div>
-
+<br>
 <button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
 <div class="content">
   <p>3</p>
