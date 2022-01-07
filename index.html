@@ -358,9 +358,7 @@ Fresnel’s equations<br><br>
   </p>
 </div>
 <BR>
-
-
-
+			<p id="count" >0</p>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -376,6 +374,18 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+const countEl = document.getElementById('count');
+	updateVisitCount();
+
+	function updateVisitCount() {
+	fetch('https://api.countapi.xyz/update/subbrat/syllabusapkibpr/?amount=1')
+	.then(res => res.json())
+	.then(res => {
+	countEl.innerHTML = res.value;
+	})
+	}
+
+
 </script>
 
 </body>

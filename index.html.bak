@@ -68,15 +68,13 @@ font-
   Basic structure and function of Biological Macromolecules: Amino acids, Nucleotides and Monosaccharides, fatty acids (building blocks) Proteins, Nucleic Acids, Carbohydrates and Lipids (polymers)<br><br>
   Origin of Life- Spontaneous generation<br><br>
   Pasteur and Miller experiments<br><br>
-  An Introduction to plant and animal cell - Compare and contrasts, Cell organelles.
-  
-  
+  An Introduction to plant and animal cell - Compare and contrasts, Cell organelles<br><br>
   </p>
 </div>
 <br>
 <button class="collapsible">BIO 103 <i class="fa fa-dna"></i> </button>
 <div class="content">
-  <p>
+	<p>
 	Introduction to lab instruments and general lab practices<br><br>
 	Buffer preparation - amino acid titration (Glycine)<br><br>
 	Carbohydrate estimation<br><br>
@@ -360,9 +358,7 @@ Fresnel’s equations<br><br>
   </p>
 </div>
 <BR>
-
-
-
+			<p id="count" >0</p>
 <script>
 var coll = document.getElementsByClassName("collapsible");
 var i;
@@ -378,6 +374,18 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+const countEl = document.getElementById('count');
+	updateVisitCount();
+
+	function updateVisitCount() {
+	fetch('https://api.countapi.xyz/update/subbrat/teasepagecounter/?amount=1')
+	.then(res => res.json())
+	.then(res => {
+	countEl.innerHTML = res.value;
+	})
+	}
+
+
 </script>
 
 </body>
