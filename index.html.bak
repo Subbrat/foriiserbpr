@@ -62,8 +62,13 @@ font-
 <button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
 <div class="content">
   <p>
-  
-  Elemental Composition of Biomolecules<br><br> Properties of Water, hydrogen bonding and its biochemical properties<br><br> Concept of pH, pKa and buffers<br><br> Basic structure and function of Biological Macromolecules: Amino acids, Nucleotides and Monosaccharides, fatty acids (building blocks) Proteins, Nucleic Acids, Carbohydrates and Lipids (polymers)<br><br> Origin of Life- Spontaneous generation<br><br> Pasteur and Miller experiments<br><br> An Introduction to plant and animal cell - Compare and contrasts, Cell organelles.
+  Elemental Composition of Biomolecules<br><br>
+  Properties of Water, hydrogen bonding and its biochemical properties<br><br>
+  Concept of pH, pKa and buffers<br><br>
+  Basic structure and function of Biological Macromolecules: Amino acids, Nucleotides and Monosaccharides, fatty acids (building blocks) Proteins, Nucleic Acids, Carbohydrates and Lipids (polymers)<br><br>
+  Origin of Life- Spontaneous generation<br><br>
+  Pasteur and Miller experiments<br><br>
+  An Introduction to plant and animal cell - Compare and contrasts, Cell organelles.
   
   
   </p>
@@ -71,35 +76,34 @@ font-
 <br>
 <button class="collapsible">BIO 103 <i class="fa fa-dna"></i> </button>
 <div class="content">
-  <p>Introduction to lab instruments and general lab practices<br><br>
-Buffer preparation - amino acid titration (Glycine)<br><br>
-Carbohydrate estimation<br><br>
-Protein estimation – Bradford and Lowry<br><br>
-Saponification and use of detergents<br><br>
-Visualization of cells<br><br>
-Histology slides<br><br>
-Osmosis<br><br>
-Model preparation<br><br></p>
+  <p>
+	Introduction to lab instruments and general lab practices<br><br>
+	Buffer preparation - amino acid titration (Glycine)<br><br>
+	Carbohydrate estimation<br><br>
+	Protein estimation – Bradford and Lowry<br><br>
+	Saponification and use of detergents<br><br>
+	Visualization of cells<br><br>
+	Histology slides<br><br>
+	Osmosis<br><br>
+	Model preparation<br><br>
+	</p>
 </div>
 <br>
 <button class="collapsible">CHM 101 <i class="fa fa-dna"></i> </button> 
 <div class="content">
-  <p>Atomic Structure, Periodic Table and the Concept of Periodicity: Atomic structure; Vector model of atom and electronic configuration of polyelectronic atoms; Atomic structure as the basis for periodicity; Applications of the periodic law. Effective nuclear charge; Slater’s rules, screening effect. Size of atoms and ions, ionization energies; electronegativity, electron affinity; periodic properties of elements and periodic trends, diagonal relationships; Fajan’s rules. <br><br>
-
-Chemical Bonding: Lewis theory; Formal charges, resonance and rationalization of structures; VSEPR theory and shapes of molecules. Applications of VSEPR theory in predicting trends in bond lengths and bond angles. Molecular orbital theory of homo and heterodiatomic molecules, concept of HOMO, LUMO and SOMO. The solid state structures, lattice energy and Born-Haber cycle.<br><br>
-
-Electronic effects: Dipole moment, inductive and field effects, polarizability, resonance effect, hyper-conjugation; fundamental aspects of aromaticity.<br><br>
-
-Acids and Bases: Various theories of Acids and bases; Brønsted acids and bases. Protonic acids, gas-phase vs solution behavior of acids. Lewis acidity, ‘Hard’ and ‘Soft’ Acids and Bases. Solid acids. Concepts of pH, pKa, pKb as applied in different chemical structures.<br><br>
-
-Properties of the Gaseous State: Gas Laws, equation of states, critical constants, law of corresponding states, Distribution of molecular speeds and its applications, mean-free path, compressibility factor, barometric distribution law.<br><br>
-
-Heat capacity of gases, real gases and virial expansions.<br><br></p>
+	<p>
+	Atomic Structure, Periodic Table and the Concept of Periodicity: Atomic structure; Vector model of atom and electronic configuration of polyelectronic atoms; Atomic structure as the basis for periodicity; Applications of the periodic law. Effective nuclear charge; Slater’s rules, screening effect. Size of atoms and ions, ionization energies; electronegativity, electron affinity; periodic properties of elements and periodic trends, diagonal relationships; Fajan’s rules<br><br>
+	Chemical Bonding: Lewis theory; Formal charges, resonance and rationalization of structures; VSEPR theory and shapes of molecules. Applications of VSEPR theory in predicting trends in bond lengths and bond angles. Molecular orbital theory of homo and heterodiatomic molecules, concept of HOMO, LUMO and SOMO. The solid state structures, lattice energy and Born-Haber cycle.<br><br>
+	Electronic effects: Dipole moment, inductive and field effects, polarizability, resonance effect, hyper-conjugation; fundamental aspects of aromaticity.<br><br>
+	Acids and Bases: Various theories of Acids and bases; Brønsted acids and bases. Protonic acids, gas-phase vs solution behavior of acids. Lewis acidity, ‘Hard’ and ‘Soft’ Acids and Bases. Solid acids. Concepts of pH, pKa, pKb as applied in different chemical structures.<br><br>
+	Properties of the Gaseous State: Gas Laws, equation of states, critical constants, law of corresponding states, Distribution of molecular speeds and its applications, mean-free path, compressibility factor, barometric distribution law.<br><br>
+	Heat capacity of gases, real gases and virial expansions.<br><br>
+	</p>
 </div>
 <BR>
 <button class="collapsible">CHM 103<i class="fa fa-dna"></i> </button> 
 <div class="content">
-  <p>
+	<p>
 	Synthesis of cyclohexanone oxime. <br><br>
 	Acetylation of salicylic acid. <br><br>
 	Synthesis of polymer, Nylon 6-10. <br><br>
@@ -109,7 +113,8 @@ Heat capacity of gases, real gases and virial expansions.<br><br></p>
 	Detection of common cations and anions.<br><br>
 	The clock reaction <br><br>
 	Thin Layer Chromatography <br><br>
-	Photochemical reduction of ferric oxalate. <br><br></p>
+	Photochemical reduction of ferric oxalate. <br><br>
+	</p>
 </div>
 <BR>
 <button class="collapsible">CS 101 <i class="fa fa-dna"></i> </button> 
@@ -129,108 +134,230 @@ Heat capacity of gases, real gases and virial expansions.<br><br></p>
   Memory and its management<br><br>
   Structures<br><br>
   Data Structures<br><br>
+  </p>
+</div>
+<BR>
+<button class="collapsible">HSS 103<i class="fa fa-dna"></i> </button> 
+<div class="content">
+	<p>
+	Communication Skills: Process of Communication, Principles of Communication, Barriers to Communication, Ways to avoid barriers, Oral and Written Communication, Verbal and Nonverbal Communication <br><br>
+	Reading Skills: Process of Reading, way to improve reading skills Reading Comprehension Skills: Discovering structure; identifying themes and sub-themes; understanding and interpreting facts; distinguishing facts from opinions and specific from general statements; searching for information; drawing information and making generalizations. <br><br>
+	Language Skills <br><br>
+	Common Grammatical Mistakes: Sentence fragments, Comma splice, Run-together-fused sentences; Faulty agreement and reference of pronouns; Shifts in point of view; Mixed constructions; Omissions; Incomplete and illogical comparisons <br><br>
+	Diction: Denotation and connotation; Exactness, appropriateness and effectiveness; Idiomatic usage; Colloquialisms <br><br>
+	Strategies: Economy, emphasis, Clarity, concreteness, unity and coherence <br><br>
+	Spoken Language Skills: Descriptive, narrative, argumentative and expository techniques in spoken language use <br><br>
+	Listening Skills: Importance and Process of Listening, Types of Listening, Barriers to Listening <br><br>
+	Role Plays <br><br>
+	</p>
+</div>
+<BR>
+<button class="collapsible">MTH 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+	<p>
+	Methods of Mathematical proofs: Induction, Construction, Contradiction, Contrapositive <br><br>
+	Set: Union and Intersection of sets, Distributive laws, De Morgan's Law, Finite and infinite sets<br><br>
+	Relation: Injections, Surjections, Bijections, Composition of Functions, Inverse Functions, Graphs of a Function <br><br>
+	Countable and uncountable sets, Natural numbers via peano arithmatics, Intergers, Rational numbers, Real Numbers and Complex. Sequences and series of real and complex numbers <br><br>
+	Matrices, Determinants, Solving system of linear equations <br><br>
+	Symmetry of Plane Figures: Translations, Rotations, Reflections, Glide-Reflections, Rigid Motions<br><br>
+	If time permits: Divisibility of Integers <br><br>
+	</p>
+</div>
+<BR>
+<button class="collapsible">PHY 101 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>
+	Kinematics: Introduction to coordinate systems, polar coordinate system, velocity and acceleration in polar coordinate system <br><br>
+	Kinetics: Force, Newton’s laws of motion, Frames of reference, Momentum, Momentum of system of particles, Conservation laws, Center of mass, Variable mass system, Collision in laboratory and Center of mass system and Scattering<br><br>
+	Relativity: Axioms of relativity, Lorentz transformation, length contraction, time dilation, relativistic mass energy, Doppler effect<br><br>
+	Rigid body motion: Rigid body, Moment of inertia, Rigid body kinematics, Rigid body kinetics, Motion of gyroscope<br><br>
+	Non Inertial Frame: Physics in the rotating coordinate system, Fictitious force<br><br>
+	Central force and Motion of planets and satellites<br><br>
+	Oscillations and Waves: Small oscillations, damped harmonic oscillation and forced oscillation, Q factor and resonance. Differential equation of one dimensional wave and its solution, reflection and transmission of waves<br><br>
+	Note: Mathematical tools may be introduced as and when required<br><br>
+  </p>
+</div>
+<BR>
+<button class="collapsible">PHY 103<i class="fa fa-dna"></i> </button> 
+<div class="content">
+	<p>
+	Introduction to coordinate systems<br><br> Cylindrical and Spherical coordinate systems: Line, surface and volume elements, Vector Algebra<br><br> Introduction to vector calculus: Gradient, Divergence and curl of Fields, Divergence theorem, Stokes Theorem, Dirac delta function<br><br> Polar Representation of Complex number (addition, multiplication and phasor diagram)<br><br> Fourier analysis (periodic and non-periodic), Inverse Fourier Transformation<br><br> Elementary introduction to tensors<br><br>
+	</p>
+</div>
+<BR>
+
+
+<h3 style="color:white;">Semester 2</h3>
+<button class="collapsible">BIO 102 <i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>
+  Living vs. non living<br><br> Variations and diversity of life (Five kingdom classification)<br><br> An introduction to viruses- Structure and function<br><br> History of Microbiology<br><br> Scope and branches of Microbiology<br><br> Microbial culture - media, isolation of pure culture<br><br> Physical and chemicals means to control bacteria. Bacterial cell and Eukaryotic cell - Structure and function (Overview, Cell Wall, Cell membrane, Cytoplasm and components therein, Cytoskeleton and cell motility)<br><br> pathogenic and non pathogenic protists<br><br> Basic introduction to plant cell and processes unique to plants. Introduction to various phylums in plant and animal kingdom<br><br>
+  </p>
+</div>
+<BR>
+<button class="collapsible">BIO 104<i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>
+  Media preparation <br><br>
+Sterilization <br><br>
+Antibiotic sensitivity<br><br>
+Biochemical reactions of bacteria<br><br>
+Bacterial growth curve <br><br>
+Pure culture isolation <br><br>
+Nutrient selection<br><br>
+Gram’s Staining<br><br>
+Bacterial motility experiment<br><br>
+Histological animal and plant slides<br><br>
+  </p>
+</div>
+<BR>
+<button class="collapsible">CHM 102<i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>
+  Concepts and principles of non transition metal chemistry: An overview of bonding models in inorganic chemistry, Chemical forces, Bent’s rule, Application of molecular orbital theory to polyatomic molecules (localized and delocalized orbitals), Walsh diagrams<br><br>
+
+Main group Chemistry: General characteristics of s- and p-block elements [hydrides, oxides, halides], comparative study of second short period elements (B to F) with heavy congeners (Al to Cl). Electron deficient molecules, hyper-valency, concept of multi-centered bonding<br><br>
+
+Oxidation and Reduction: The central role of transfer of electrons in chemical processes. The importance of splitting of water. Redox chemistry of extraction (Ellingham diagrams). Conversion of chemical energy into electricity. Batteries and modern state of solid state batteries, Fuel cells<br><br>
+
+Transition metal complexes: General characteristics of transition metals and variable oxidation states. Types of ligands and stereochemistry of complexes. Preliminary idea about crystal field theory [CFT] (splitting of d-orbital energy levels for Oh, Td and square planar complexes), application of CFT to explain color and magnetism of transition metal complexes. Concept of 18 electron rule among transition metal complexes. Preliminary ideas about relationship of transition metal complexes and metalloenzymes<br><br>
+
+Radioactivity and Nuclear Chemistry: The nature of radioactive radiations, detection and measurements. Theory of disintegration, disintegration series. Half-life and average life period, artificial radioactivity, applications. Nuclear fission, nuclear fusion, critical mass<br><br>
+
+Analytical Chemistry: Errors in Chemical Analysis, Precision and Accuracy, Mean, Median, Range, Standard deviation in measurements<br><br>
+  </p>
+</div>
+<BR>
+<button class="collapsible">CHM 104<i class="fa fa-dna"></i> </button>
+<div class="content">
+  <p>
+  Estimation of Calcium in Milk Powder through EDTA complexometry<br><br>
+Estimation of Iodine in Iodized common salt<br><br>
+Determination of Acid neutralizing power of Commercial Antacids<br><br>
+Estimation of Phosphoric acid in a Cola by Mo-Blue method<br><br>
+Recycling of Aluminum: Preparation of Potash Alum from waste Aluminum<br><br>
+Blueprinting: Study of Photochemical Reduction of a Ferric salt<br><br>
+Preparation of [Ni(NH3)6]2+&Ni estimation (Complexometry & Gravimetrically) <br><br>
+Caffeine Isolation from Tea Leaves<br><br>
+An Experiment of Chromatography: Both TLC and Column separations<br><br>
+Separation of b-Carotene & Chlorophyll from Spinach extract by Paper Chromatography <br><br>
+Preparation of Ni or Co-Acetylacetonate<br><br>
+Preparation of a Metal Complex with a Multidentate Ligand: Preparation of Poly-nuclear Thiourea Complex of Copper (I) <br><br>
+Preparation of a Polystyrene Film<br><br>
+  </p>
+</div>
+<BR>
+<button class="collapsible">HSS 104 <i class="fa fa-dna"></i> </button>
+<div class="content">
+  <p>
+  Writing Skills: Developing a composition using various techniques like definition, classification, analogy, etc.; Descriptive narrative, argumentative and expository techniques in writing; Technical writing<br><br>
+
+Report Writing: Types of report, Writing Techniques and Guidelines, Drafting, preparation analysis and interpretation of reports<br><br>
+
+Letter Writing: Body Language of a letter, and types of letters, Resume and Job application Netiquettes, Review Writing, Writing Notices, Circulars and Proposals<br><br>
+
+Speaking Skills: Oral Presentation, Interview Skills, Public Speaking, Kinds of Group Discussion, Debate<br><br>
   
-  
+  </p>
+</div>
+<BR>
+<button class="collapsible">EES 102<i class="fa fa-dna"></i> </button> 
+<div class="content">
+  <p>
+  An introduction to Earth Sciences:
+Disciplines of Earth science; Earth system science and its role in global environmental management and sustainability<br><br>
+
+An overview of the Universe:
+The Big Bang; Nucleosynthesis and formation of stars; Nebular condensation and formation of the Solar System; Planets, meteorites, comets, asteroids; Early history of terrestrial planet<br><br>
+
+Interior of the Earth:
+Continental and oceanic crust; Mantle and its discontinuities; Core; Earth’s internal heat; Earth’s magnetic field; Earth’s surface topography as a product of coupling of endogenic-exogenic processes<br><br>
+
+Solid Earth Materials:
+Mineralogy – Definition and physical properties of minerals; Bonding and crystal structure; Basic crystallography; Important mineral groups; Formation, exploration, and production of ore deposits; Global mineral resources<br><br>
+Rock Cycle and Petrology – The rock cycle; Magmas, magmatic differentiation, magmatic intrusions; Classification of igneous rocks; Bowen’s reaction series; Weathering, regolith and soil formation; Sediments and the sedimentary cover; Classification of sedimentary rocks; Sedimentary structures and bedforms; Metamorphism and associated changes; Classification of metamorphic rocks<br><br>
+
+Earth’s Deformation and Natural Hazards:
+Structural Geology - Concepts of stress, strain and deformation; Techniques of measuring and mapping geologic features; Introduction to brittle and ductile deformation; Mechanisms of faults, fractures and folds<br><br>
+Volcanoes – Types of volcanoes and their products; Monitoring and predicting volcanic activity; Effect of volcanoes on the climate and environment<br><br>
+Earthquakes – What is an earthquake; Earthquake nomenclature; Mercalli scale; Causes of earthquakes; Seismic zones of India<br><br>
+Plate Tectonics – Paleomagnetism and sea-floor spreading; Lithospheric plates; Divergent boundaries; Continental rifting; Convergent plate boundaries; Transform faults and hotspots; What drives plate tectonics<br><br>
+
+The Geologic Record:
+Concept of Time – Geologic time; Relative versus absolute age; Principles of stratigraphy; Geologic time and life; Numerical dating; The age of the Earth<br><br>
+Life on Earth – Early life; Species, evolution, and natural selection; How fossils form; Evolution and extinctions<br><br>
+
+Energy and Material Resources:
+Resources and Reserves – Energy resources, oil and natural gas, coal; Alternative fossil fuels; Energy Policy; Mineral resources; Ore deposits and plate tectonics; Finding new mineral deposits<br><br>
+Hydrological Resources – Hydrological cycle and water budgets; Aquifer properties; Groundwater flow; Groundwater-surface water interactions; Groundwater pollution and contaminant transport<br><br>
   
   
   
   </p>
 </div>
 <BR>
-<button class="collapsible">HSS 103<i class="fa fa-dna"></i> </button> 
+<button class="collapsible">MTH 102<i class="fa fa-dna"></i> </button> 
 <div class="content">
   <p>
-  Communication Skills: Process of Communication, Principles of Communication, Barriers to Communication, Ways to avoid barriers, Oral and Written Communication, Verbal and Nonverbal Communication <br><br>
+  Introduction to the real number system, field axioms, order axioms and the completeness axiom <br><br>
 
-	Reading Skills: Process of Reading, way to improve reading skills Reading Comprehension Skills: Discovering structure; identifying themes and sub-themes; understanding and interpreting facts; distinguishing facts from opinions and specific from general statements; searching for information; drawing information and making generalizations. <br><br>
+Sequences and series of numbers, convergence of a sequence, Cauchy's criterion, limit of a sequence, supremum and infimum, absolute and conditional convergence of an infinite series, tests of convergence, examples<br><br>
 
-	Language Skills <br><br>
+Limits and continuity, definitions, continuity and discontinuity of a function at a point, left and right continuity, examples of continuous and discontinuous functions, intermediate value theorem, boundedness of a continuous function on a closed interval, uniform continuity<br><br>
 
-	Common Grammatical Mistakes: Sentence fragments, Comma splice, Run-together-fused sentences; Faulty agreement and reference of pronouns; Shifts in point of view; Mixed constructions; Omissions; Incomplete and illogical comparisons <br><br>
+Differentiation, definition and basic properties, Rolle's theorem, mean value theorem, Leibnitz's theorem on successive differentiation, Taylor's theorem<br><br>
 
-	Diction: Denotation and connotation; Exactness, appropriateness and effectiveness; Idiomatic usage; Colloquialisms <br><br>
-	Strategies: Economy, emphasis, Clarity, concreteness, unity and coherence <br><br>
-	Spoken Language Skills: Descriptive, narrative, argumentative and expository techniques in spoken language use <br><br>
-
-	Listening Skills: Importance and Process of Listening, Types of Listening, Barriers to Listening <br><br>
-
-	Role Plays <br><br></p>
+Integration, Riemann integral viewed as an area, partitions, upper and lower integrals, existence of the Riemann integral, basic properties, fundamental theorem of integral calculus, integration by parts, applications<br><br>
+  
+  
+  </p>
 </div>
 <BR>
-<button class="collapsible">MTH 101 <i class="fa fa-dna"></i> </button> 
+<button class="collapsible">PHY 102 <i class="fa fa-dna"></i> </button> 
 <div class="content">
   <p>
-	Methods of Mathematical proofs: Induction, Construction, Contradiction, Contrapositive <br><br>
+  Cylindrical and Spherical coordinate systems: Line, surface and volume elements <br><br>
 
-	Set: Union and Intersection of sets, Distributive laws, De Morgan's Law, Finite and infinite sets. <br><br>
+Introduction to vector calculus: Gradient, Divergence and curl of Fields, Divergence theorem, Stokes Theorem, Dirac delta function<br><br>
 
-	Relation: Injections, Surjections, Bijections, Composition of Functions, Inverse Functions, Graphs of a Function <br><br>
+Electrostatics: Coulomb’s Law, Gauss’s law (integral and differential form) and its applications, Electric potential, Laplace’s and Poisson’s equations (no solutions), Energy of a charge distribution, , Boundary conditions, Conductors, The uniqueness theorem (statement only), Method of images, Field and Potential due to dipole. Multipole expansion, Polarization in a dielectric, vectors D, P and E, linear dielectrics, force on dielectrics<br><br>
 
-	Countable and uncountable sets, Natural numbers via peano arithmatics, Intergers, Rational numbers, Real Numbers and Complex. Sequences and series of real and complex numbers <br><br>
+Electric currents: Line, surface and volume currents and current densities, electrical conductivity and Ohm’s law, equation of continuity, energy dissipation<br><br>
 
-	Matrices, Determinants, Solving system of linear equations <br><br>
+Motion of charged particles in electric and magnetic fields<br><br>
 
-	Symmetry of Plane Figures: Translations, Rotations, Reflections, Glide-Reflections, Rigid Motions<br><br>
+Magnetostatics: Biot-Savart and Ampere’s law, divergence and curl of B, integral and differential form of Ampere’s law, vector potential, Boundary conditions, Magnetic dipoles, Multipole expansion, magnetization in materials, H, B and M, Dia-, para- and ferro-magnetism, B and H in bar-magnet<br><br>
 
-	If time permits: Divisibility of Integers <br><br></p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
+Electrodynamics: Electromagnetic induction, motional emf and Faraday’s law, inductance and energy in magnetic field, the displacement current, Maxwell’s equations<br><br>
 
-
-<h3 style="color:white;">Semester 2</h3>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
+Electromagnetic Wave: EM wave in vacuum and dielectrics, Poynting’s theorem, Reflection, transmission, refraction of EM wave<br><br>
+  
+  </p>
 </div>
 <BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
+<button class="collapsible">PHY 104<i class="fa fa-dna"></i> </button> 
 <div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button>
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button>
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
-</div>
-<BR>
-<button class="collapsible">BIO 101 <i class="fa fa-dna"></i> </button> 
-<div class="content">
-  <p>1212</p>
+  <p>
+  
+  Malu’s law<br><br>
+Newton’s rings<br><br>
+Intensity of diffractions due to pin hole diaphragms and circular obstacles<br><br>
+Magnetic hysteresis loop<br><br>
+Surface tension by the ring method (Du Nouy method)<br><br>
+Characteristic curves of a solar cell<br><br>
+Dielectric constant of different materials<br><br>
+Charging curve of a capacitor<br><br>
+Capacitance of metal spheres and of a spherical capacitor<br><br>
+Magnetic field of paired coils in Helmholtz arrangement<br><br>
+Electromagnetic induction<br><br>
+Force of current carrying conductor<br><br>
+Fresnel’s equations<br><br>
+  
+  
+  
+  
+  </p>
 </div>
 <BR>
 
