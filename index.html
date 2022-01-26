@@ -190,9 +190,7 @@ font-
 <button class="collapsible">BIO 102 : DIVERSITY IN THE LIVING WORLD	<i class="fa fa-globe"></i> </button> 
 <div class="content">
   <p>
-	  <a href="https://forms.gle/ZV6xUKKBR6pXgmD38" target="_blank" > test </a>
-	
-	</p>
+s  </p>
 </div>
 <BR>
 <button class="collapsible">BIO 104 : GENERAL BIOLOGY LABORATORY II	<i class="fa fa-flask"></i> </button> 
@@ -362,11 +360,11 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
-  const countEl = document.getElementById('count');
+const countEl = document.getElementById('count');
 	updateVisitCount();
 	<!-- IF YOU ARE READING THIS, I INVITE YOU TO JOIN ME -->
 	function updateVisitCount() {
-	<!-- fetch('https://api.countapi.xyz/update/subbrat/syllabusapkibpr/?amount=1') --!>
+	fetch('https://api.countapi.xyz/update/subbrat/syllabusapkibpr/?amount=1')
 	.then(res => res.json())
 	.then(res => {
 	countEl.innerHTML = res.value;
